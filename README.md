@@ -13,6 +13,7 @@
 - Deadline: 04.10.2021 (not really :))
 - Points: -
 
+## Upcoming
 ### 1. Kernel and system calls
 
 - [Slides](slides/01-system_calls.pdf)
@@ -67,7 +68,6 @@
 - Deadline: TBD
 - Points: 40
 
-## Upcoming
 ### 7. Performance
 
 - [Slides](slides/07-performance.pdf)

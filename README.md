@@ -2,13 +2,13 @@
 
 - [Slack Workspace](https://ls1-courses-tum.slack.com)
 - [Youtube playlist](https://www.youtube.com/playlist?list=PLfKm1-FQibbAdPAHgK5Pv8LNRr0o4vou7)
-- [Bugtracker](https://github.com/ls1-sys-prog-course-WiSe21-22/docs/issues)
+- [Bugtracker](https://github.com/ls1-sys-prog-course/docs/issues)
 
 ### 0. Overview and introduction
 
 - [Slides](slides/00-introduction.pdf)
 - [Lecture recording](https://www.youtube.com/watch?v=PXwlzMTT0VA&list=PLfKm1-FQibbAdPAHgK5Pv8LNRr0o4vou7&index=2)
-- Task: [Implement sort(1)](https://github.com/ls1-sys-prog-course-WiSe21-22/task0-sort)
+- Task: [Implement sort(1)](https://github.com/ls1-sys-prog-course/task0-sort)
 - Organizer: [Dimitrios](https://github.com/dimstav23)
 - Deadline: 04.10.2021 (not really :))
 - Points: -
@@ -18,7 +18,7 @@
 
 - [Slides](slides/01-system_calls.pdf)
 - [Lecture recording](https://youtu.be/qO33G1od3Xo)
-- Task: [Manual syscalls and tracing](https://github.com/ls1-sys-prog-course-WiSe21-22/task1-syscalls)
+- Task: [Manual syscalls and tracing](https://github.com/ls1-sys-prog-course/task1-syscalls)
 - Organizer: [Shady](https://github.com/shadyalaa)
 - Deadline: TBD
 - Points: 30
@@ -27,7 +27,7 @@
 
 - [Slides](slides/02-files.pdf)
 - [Lecture recording](https://youtu.be/wDPH8DYZwCg)
-- Task: [Fuse filesystem](https://github.com/ls1-sys-prog-course-WiSe21-22/task2-fileio)
+- Task: [Fuse filesystem](https://github.com/ls1-sys-prog-course/task2-fileio)
 - Organizer: [Redha](https://github.com/rgouicem)
 - Deadline: TBD
 - Points: 30
@@ -36,8 +36,8 @@
 
 - [Slides](slides/03-processes.pdf)
 - [Lecture recording](https://youtu.be/yDALtSjlK-M)
-- Task: [Shell](https://github.com/ls1-sys-prog-course-WiSe21-22/task3-processes)
-- Organizer: [Sebastian](https://github.com/)
+- Task: [Shell](https://github.com/ls1-sys-prog-course/task3-processes)
+- Organizer: [Sebastian](https://github.com/ReimersS)
 - Deadline: TBD
 - Points: 30
 
@@ -45,8 +45,8 @@
 
 - [Slides](slides/04-concurrency.pdf)
 - [Lecture recording](https://youtu.be/Bj-1pFh8Bck)
-- Task: [Synchronization and Scalability](https://github.com/ls1-sys-prog-course-WiSe21-22/task4-concurrency)
-- Organizer: [Pablo](https://github.com/)
+- Task: [Synchronization and Scalability](https://github.com/ls1-sys-prog-course/task4-concurrency)
+- Organizer: [Jin](https://github.com/)
 - Deadline: TBD
 - Points: 30
 
@@ -54,8 +54,8 @@
 
 - [Slides](slides/05-memory_management.pdf)
 - [Lecture recording](https://youtu.be/1LxVzohqRx0)
-- Task: [Heap management implementation](https://github.com/ls1-sys-prog-course-WiSe21-22/task5-memory)
-- Organizer: [Moritz](https://github.com/)
+- Task: [Heap management implementation](https://github.com/ls1-sys-prog-course/task5-memory)
+- Organizer: [Moritz](https://github.com/m-lumme)
 - Deadline: TBD
 - Points: 40
 
@@ -63,8 +63,8 @@
 
 - [Slides](slides/06-network_programming.pdf)
 - [Lecture recording](https://youtu.be/fDRaXnhjoDE)
-- Task: [Sockets](https://github.com/ls1-sys-prog-course-WiSe21-22/task6-sockets)
-- Organizer: [Simon](https://github.com/)
+- Task: [Sockets](https://github.com/ls1-sys-prog-course/task6-sockets)
+- Organizer: [Simon](https://github.com/ackxolotl)
 - Deadline: TBD
 - Points: 40
 
@@ -72,8 +72,8 @@
 
 - [Slides](slides/07-performance.pdf)
 - [Lecture recording](https://youtu.be/2eW-J9fs12g)
-- Task: [Performance](https://github.com/ls1-sys-prog-course-WiSe21-22/task7-performance)
-- Organizer: [Jin](https://github.com/)
+- Task: [Performance](https://github.com/ls1-sys-prog-course/task7-performance)
+- Organizer: [Atsushi](https://github.com/AtsushiKoshiba)
 - Deadline: TBD
 - Points: 40
 
@@ -81,7 +81,7 @@
 
 - [Slides](slides/08-container.pdf)
 - [Lecture recording](https://youtu.be/GMs3kLteZvk)
-- Task: [Container](https://github.com/ls1-sys-prog-course-WiSe21-22/task8-container)
+- Task: [Container](https://github.com/ls1-sys-prog-course/task8-container)
 - [Task Explaination](https://www.youtube.com/watch?v=INyb4Rj073U)
 - Organizer: [Peter](https://github.com/pogobanane)
 - Deadline: TBD

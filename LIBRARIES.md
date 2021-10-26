@@ -17,3 +17,4 @@ Generally, you're allowed to use any library that is installed on the Docker ima
 - [libc](https://crates.io/crates/libc)
 - [clap](https://crates.io/crates/clap) for argument parsing
 - [parking_lot](https://crates.io/crates/parking_lot)
+- [tempfile](https://crates.io/crates/tempfile)

@@ -13,15 +13,17 @@
 - Deadline: 04.10.2021 (not really :))
 - Points: -
 
-## Upcoming
 ### 1. Kernel and system calls
 
 - [Slides](slides/01-system_calls.pdf)
 - [Lecture recording](https://youtu.be/qO33G1od3Xo)
 - Task: [Manual syscalls and tracing](https://github.com/ls1-sys-prog-course/task1-syscalls)
 - Organizer: [Shady](https://github.com/shadyalaa)
-- Deadline: TBD
+- Deadline: 11.11.2021 23:00
 - Points: 30
+
+
+## Upcoming
 
 ### 2. File I/O
 

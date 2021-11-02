@@ -22,17 +22,16 @@
 - Deadline: 11.11.2021 23:00
 - Points: 30
 
-
-## Upcoming
-
 ### 2. File I/O
 
 - [Slides](slides/02-files.pdf)
 - [Lecture recording](https://youtu.be/wDPH8DYZwCg)
 - Task: [Fuse filesystem](https://github.com/ls1-sys-prog-course/task2-fileio)
 - Organizer: [Redha](https://github.com/rgouicem)
-- Deadline: TBD
+- Deadline: 18.11.2021 23:00
 - Points: 30
+
+## Upcoming
 
 ### 3. Processes
 

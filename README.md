@@ -31,16 +31,16 @@
 - Deadline: 18.11.2021 23:00
 - Points: 30
 
-## Upcoming
-
 ### 3. Processes
 
 - [Slides](slides/03-processes.pdf)
-- [Lecture recording](https://youtu.be/yDALtSjlK-M)
+- [Lecture recording](https://www.youtube.com/watch?v=qNzgterdPng)
 - Task: [Shell](https://github.com/ls1-sys-prog-course/task3-processes)
 - Organizer: [Sebastian](https://github.com/ReimersS)
-- Deadline: TBD
+- Deadline: 25.11.2021 23:00
 - Points: 30
+
+## Upcoming
 
 ### 4. Concurrency and synchronization (ipc)
 

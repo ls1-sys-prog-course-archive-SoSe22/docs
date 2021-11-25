@@ -46,10 +46,8 @@
 - [Lecture recording](https://youtu.be/Bj-1pFh8Bck)
 - Task: [Synchronization and Scalability](https://github.com/ls1-sys-prog-course/task4-concurrency)
 - Organizer: [Jin](https://github.com/)
-- Deadline: 02.12.2021
+- Deadline: 02.12.2021 23:00
 - Points: 30
-
-## Upcoming
 
 ### 5. Memory management
 
@@ -57,8 +55,10 @@
 - [Lecture recording](https://youtu.be/1LxVzohqRx0)
 - Task: [Heap management implementation](https://github.com/ls1-sys-prog-course/task5-memory)
 - Organizer: [Moritz](https://github.com/m-lumme)
-- Deadline: TBD
+- Deadline: 16.12.2021 23:00
 - Points: 40
+
+## Upcoming
 
 ### 6. Sockets
 

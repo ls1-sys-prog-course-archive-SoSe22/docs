@@ -67,16 +67,16 @@
 - Deadline: 06.01.2022 23:00
 - Points: 40
 
-## Upcoming
-
 ### 7. Performance
 
 - [Slides](slides/07-performance.pdf)
-- [Lecture recording](https://youtu.be/2eW-J9fs12g)
+- [Lecture recording]()
 - Task: [Performance](https://github.com/ls1-sys-prog-course/task7-performance)
 - Organizer: [Atsushi](https://github.com/AtsushiKoshiba)
-- Deadline: TBD
+- Deadline: 03.02.2022 23:00
 - Points: 40
+
+## Upcoming
 
 ### 8. Container virtualization
 

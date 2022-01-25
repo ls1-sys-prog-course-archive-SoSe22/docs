@@ -76,8 +76,6 @@
 - Deadline: 03.02.2022 23:00
 - Points: 40
 
-## Upcoming
-
 ### 8. Container virtualization
 
 - [Slides](slides/08-container.pdf)
@@ -85,8 +83,10 @@
 - Task: [Container](https://github.com/ls1-sys-prog-course/task8-container)
 - [Task Explaination](https://www.youtube.com/watch?v=INyb4Rj073U)
 - Organizer: [Peter](https://github.com/pogobanane)
-- Deadline: TBD
+- Deadline: 17.02.2022 23:00
 - Points: 60
+
+## Upcoming
 
 ## Grades
 

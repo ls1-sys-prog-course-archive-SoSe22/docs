@@ -1,4 +1,4 @@
-# Pratical course: Advanced Systems Programming in C/Rust
+# Practical course: Advanced Systems Programming in C/Rust
 
 - [Slack Workspace](https://ls1-courses-tum.slack.com)
 - [Youtube playlist](https://www.youtube.com/playlist?list=PLfKm1-FQibbAdPAHgK5Pv8LNRr0o4vou7)

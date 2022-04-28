@@ -7,7 +7,7 @@
 ### 0. Overview and introduction
 
 - [Slides](slides/00-introduction.pdf)
-- [Lecture recording](https://www.youtube.com/watch?v=PXwlzMTT0VA&list=PLfKm1-FQibbAdPAHgK5Pv8LNRr0o4vou7&index=2)
+- Lecture recording: Incoming...
 - Task: [Implement sort(1)](https://github.com/ls1-sys-prog-course/task0-sort)
 - Organizer: [Redha](https://github.com/rgouicem)
 - Deadline: 12.05.2022

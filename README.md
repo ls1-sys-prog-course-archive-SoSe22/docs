@@ -3,6 +3,7 @@
 - [Slack Workspace](https://ls1-courses-tum.slack.com)
 - [Youtube playlist](https://www.youtube.com/playlist?list=PLfKm1-FQibbAdPAHgK5Pv8LNRr0o4vou7)
 - [Bugtracker](https://github.com/ls1-sys-prog-course/docs/issues)
+- [Docker image](https://github.com/orgs/ls1-courses/packages/container/package/ls1-runner)
 
 ### 0. Overview and introduction
 
@@ -13,16 +14,16 @@
 - Deadline: 12.05.2022
 - Points: -
 
-## Upcoming
-
 ### 1. Kernel and system calls
 
 - [Slides](slides/01-system_calls.pdf)
 - [Lecture recording](https://youtu.be/qO33G1od3Xo)
 - Task: [Manual syscalls and tracing](https://github.com/ls1-sys-prog-course/task1-syscalls)
 - Organizer: [Atsushi](https://github.com/AtsushiKoshiba)
-- Deadline: TBD
+- Deadline: 19.05.2022
 - Points: 30
+
+## Upcoming
 
 ### 2. File I/O
 

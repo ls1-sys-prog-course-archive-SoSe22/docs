@@ -26,7 +26,7 @@
 Known Issues:
 
 - Rust
-  - `nightly` toolchain not available in GitHub CI, see [issue](#2)
+  - `nightly` toolchain not available in GitHub CI, see #2
 
 ## Upcoming
 

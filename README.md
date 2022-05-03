@@ -23,6 +23,11 @@
 - Deadline: 19.05.2022
 - Points: 30
 
+Known Issues:
+
+- Rust
+  - `nightly` toolchain not available in GitHub CI, see [issue](#2)
+
 ## Upcoming
 
 ### 2. File I/O

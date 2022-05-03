@@ -26,7 +26,8 @@
 Known Issues:
 
 - Rust
-  - `nightly` toolchain not available in GitHub CI, see #2
+  - `nightly` toolchain not available in GitHub CI, see this
+    [issue](https://github.com/ls1-sys-prog-course/docs/issues/2)
 
 ## Upcoming
 

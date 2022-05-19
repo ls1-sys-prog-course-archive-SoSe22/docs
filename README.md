@@ -20,10 +20,9 @@
 - [Lecture recording](https://youtu.be/qO33G1od3Xo)
 - Task: [Manual syscalls and tracing](https://github.com/ls1-sys-prog-course/task1-syscalls)
 - Organizer: [Atsushi](https://github.com/AtsushiKoshiba)
-- Deadline: 19.05.2022
+- Published on: 02.05.2022
+- Deadline: 23.05.2022
 - Points: 30
-
-## Upcoming
 
 ### 2. File I/O
 
@@ -31,7 +30,8 @@
 - [Lecture recording](https://youtu.be/wDPH8DYZwCg)
 - Task: [Fuse filesystem](https://github.com/ls1-sys-prog-course/task2-fileio)
 - Organizer: [Peter](https://github.com/pogobanane)
-- Deadline: TBD
+- Published on: 09.05.2022
+- Deadline: 02.06.2022
 - Points: 30
 
 ### 3. Processes
@@ -40,8 +40,11 @@
 - [Lecture recording](https://www.youtube.com/watch?v=qNzgterdPng)
 - Task: [Shell](https://github.com/ls1-sys-prog-course/task3-processes)
 - Organizer: [Sebastian](https://github.com/Sebastian-Reimers)
-- Deadline: TBD
+- Published on: 16.05.2022
+- Deadline: 09.06.2022
 - Points: 30
+
+## Upcoming
 
 ### 4. Concurrency and synchronization (ipc)
 
@@ -49,6 +52,7 @@
 - [Lecture recording](https://youtu.be/Bj-1pFh8Bck)
 - Task: [Synchronization and Scalability](https://github.com/ls1-sys-prog-course/task4-concurrency)
 - Organizer: [Peter](https://github.com/pogobanane)
+- Published on: 30.05.2022
 - Deadline: TBD
 - Points: 30
 
@@ -58,6 +62,7 @@
 - [Lecture recording](https://youtu.be/1LxVzohqRx0)
 - Task: [Heap management implementation](https://github.com/ls1-sys-prog-course/task5-memory)
 - Organizer: [Sebastian](https://github.com/Sebastian-Reimers)
+- Published on: 06.06.2022
 - Deadline: TBD
 - Points: 40
 
@@ -67,6 +72,7 @@
 - [Lecture recording](https://youtu.be/fDRaXnhjoDE)
 - Task: [Sockets](https://github.com/ls1-sys-prog-course/task6-sockets)
 - Organizer: [Simon](https://github.com/ackxolotl)
+- Published on: 20.06.2022
 - Deadline: TBD
 - Points: 40
 
@@ -76,6 +82,7 @@
 - [Lecture recording]()
 - Task: [Performance](https://github.com/ls1-sys-prog-course/task7-performance)
 - Organizer: [Atsushi](https://github.com/AtsushiKoshiba)
+- Published on: 04.07.2022
 - Deadline: TBD
 - Points: 40
 
@@ -86,6 +93,7 @@
 - Task: [Container](https://github.com/ls1-sys-prog-course/task8-container)
 - [Task Explaination](https://www.youtube.com/watch?v=INyb4Rj073U)
 - Organizer: [Jiyang](https://github.com/jedichen121)
+- Published on: 18.07.2022
 - Deadline: TBD
 - Points: 60
 

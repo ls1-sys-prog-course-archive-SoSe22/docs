@@ -44,17 +44,17 @@
 - Deadline: 09.06.2022
 - Points: 30
 
-## Upcoming
-
 ### 4. Concurrency and synchronization (ipc)
 
 - [Slides](slides/04-concurrency.pdf)
 - [Lecture recording](https://youtu.be/Bj-1pFh8Bck)
 - Task: [Synchronization and Scalability](https://github.com/ls1-sys-prog-course/task4-concurrency)
-- Organizer: [Peter](https://github.com/pogobanane)
+- Organizer: [Jin](https://github.com/mjntum)
 - Published on: 30.05.2022
-- Deadline: TBD
+- Deadline: 23.06.2022
 - Points: 30
+
+## Upcoming
 
 ### 5. Memory management
 

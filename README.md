@@ -64,8 +64,6 @@
 - Deadline: 30.06.2022
 - Points: 40
 
-## Upcoming
-
 ### 6. Sockets
 
 - [Slides](slides/06-network_programming.pdf)
@@ -73,8 +71,10 @@
 - Task: [Sockets](https://github.com/ls1-sys-prog-course/task6-sockets)
 - Organizer: [Simon](https://github.com/ackxolotl)
 - Published on: 20.06.2022
-- Deadline: TBD
+- Deadline: 14.07.2022
 - Points: 40
+
+## Upcoming
 
 ### 7. Performance
 

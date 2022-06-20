@@ -54,8 +54,6 @@
 - Deadline: 23.06.2022
 - Points: 30
 
-## Upcoming
-
 ### 5. Memory management
 
 - [Slides](slides/05-memory_management.pdf)
@@ -63,8 +61,10 @@
 - Task: [Heap management implementation](https://github.com/ls1-sys-prog-course/task5-memory)
 - Organizer: [Sebastian](https://github.com/Sebastian-Reimers)
 - Published on: 06.06.2022
-- Deadline: TBD
+- Deadline: 30.06.2022
 - Points: 40
+
+## Upcoming
 
 ### 6. Sockets
 

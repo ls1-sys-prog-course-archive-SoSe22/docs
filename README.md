@@ -5,6 +5,8 @@
 - [Bugtracker](https://github.com/ls1-sys-prog-course/docs/issues)
 - [Docker image](https://github.com/orgs/ls1-courses/packages/container/package/ls1-runner)
 
+**All deadlines are at 16:00.**
+
 ### 0. Overview and introduction
 
 - [Slides](slides/00-introduction.pdf)
@@ -74,18 +76,17 @@
 - Deadline: 14.07.2022
 - Points: 40
 
-## Upcoming
-
 ### 7. Performance
 
 - [Slides](slides/07-performance.pdf)
-- [Lecture recording]()
+- [Lecture recording](https://youtu.be/o1SkOoCyHDI)
 - Task: [Performance](https://github.com/ls1-sys-prog-course/task7-performance)
 - Organizer: [Atsushi](https://github.com/AtsushiKoshiba)
 - Published on: 04.07.2022
-- Deadline: TBD
+- Deadline: 28.07.2022
 - Points: 40
 
+## Upcoming
 ### 8. Container virtualization
 
 - [Slides](slides/08-container.pdf)
